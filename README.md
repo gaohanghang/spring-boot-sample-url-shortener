@@ -3,6 +3,8 @@
 > 原作者: 杨斌
 >
 > 原文地址: https://juejin.im/post/5d6ba1436fb9a06b28636915
+> 
+> 原仓库地址: https://github.com/y0ngb1n/spring-boot-samples/tree/master/spring-boot-samples-url-shortener
 
 **运行效果**
 
